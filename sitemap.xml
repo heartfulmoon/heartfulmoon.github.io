@@ -3,57 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://heartfulmoon.netlify.app/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2020-05-08T12:36:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://heartfulmoon.netlify.app/2020/05/hellow-again/</loc>
+    <loc>/</loc>
     <lastmod>2020-05-08T12:36:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://heartfulmoon.netlify.app/tags/hugo/</loc>
+    <loc>/2020/05/hellow-again/</loc>
     <lastmod>2020-05-08T12:36:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://heartfulmoon.netlify.app/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>2020-05-08T12:36:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://heartfulmoon.netlify.app/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-05-08T12:36:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://heartfulmoon.netlify.app/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-05-08T12:36:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://heartfulmoon.netlify.app/categories/web/</loc>
+    <loc>/categories/web/</loc>
     <lastmod>2020-05-08T12:36:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://heartfulmoon.netlify.app/tags/%E3%81%BC%E3%82%84%E3%81%8D/</loc>
+    <loc>/tags/%E3%81%BC%E3%82%84%E3%81%8D/</loc>
     <lastmod>2020-05-08T12:36:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://heartfulmoon.netlify.app/2020/05/helloworld/</loc>
+    <loc>/2020/05/helloworld/</loc>
     <lastmod>2020-05-08T12:06:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://heartfulmoon.netlify.app/tags/test/</loc>
+    <loc>/tags/test/</loc>
     <lastmod>2020-05-08T12:06:03+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://heartfulmoon.netlify.app/archives/</loc>
+    <loc>/archives/</loc>
   </url>
   
 </urlset>
