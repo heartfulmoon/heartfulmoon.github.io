@@ -1,17 +1,21 @@
-status:
-	git status
+MAKEFLAGS += --warn-undefined-variables
+SHELL := /bin/bash
+.SHELLFLAGS := -eu -o pipefail -c
+.DEFAULT_GOAL := help
 
-add:
-	git add .
+# all targets are phony
+.PHONY: $(shell egrep -o ^[a-zA-Z_-]+: $(MAKEFILE_LIST) | sed 's/://')
 
-commit: add
-	git commit -m 'modify'
+# .env
+ifneq ("$(wildcard ./.env)","")
+  include ./.env
+endif
 
-pull:
-	git pull
-	git update
+deploy: ## Deploy on Github Pages
+	@sh deploy.sh
 
-push:
-	git push -u origin master
-
-commit-push: commit push
+help: ## Print this help
+	@echo 'Usage: make [target]'
+	@echo ''
+	@echo 'Targets:'
+	@awk 'BEGIN {FS = ":.*?## "} /^[a-zA-Z0-9_-]+:.*?## / {printf "\033[36m%-30s\033[0m %s\n", $$1, $$2}' $(MAKEFILE_LIST)
