@@ -1,17 +1,21 @@
 # README
 
+## 概要
+
+* github pagesとnetlifyで同じものをデプロイする
+
 ## セットアップ
 
 サイト作成
 
 ```shell
-hugo new site heartfulmoon.netlify.app
+hugo new site heartfulmoon.github.io
 ```
 
 レポジトリ初期化
 
 ```shell
-cd heartfulmoon.netlify.app
+cd heartfulmoon.github.io
 git init
 echo '*~' >> .gitignore
 echo '*.bak' >> .gitignore
@@ -36,7 +40,7 @@ cp -pr themes/hugo-tranquilpeak-theme/exampleSite/config.toml .
 config.toml
 
 ```toml
-baseURL = "http://heartfulmoon.netlify.app/"
+baseURL = "http://heartfulmoon.github.io/"
 languageCode = "ja"
 title = "Heartfullmoon Web Site"
 theme = "tranquilpeak"
@@ -55,20 +59,10 @@ make run
 Githubレポジトリ作成後
 
 ```shell
-git remote add origin git@github.com:heartfulmoon/hearfulmoon.netlify.app.git
+git remote add origin git@github.com:heartfulmoon/hearfulmoon.github.io.git
 git add .
 git commit -m 'init'
 git push -u origin master
-```
-
-## Github Actionsの利用
-
-* .github/workflows/gh-pages.yamlを作成
-    * ソースはmasterブランチ
-    * 出力はpublicフォルダの内容をgh-pagesブランチ
-
-```shell
-make deploy
 ```
 
 * Github>Settings>Gighub Pages>Source>gh-pages branchに設定する
@@ -77,10 +71,38 @@ make deploy
 ## 既存のレポジトリからクローンする場合
 
 ```shell
-git clone git@github.com:heartfulmoon/hearfulmoon.netlify.app.git hearfulmoon.netlify.app
+git clone git@github.com:heartfulmoon/hearfulmoon.github.io.git hearfulmoon.github.io
 cd higebobo-novela
 git submodule update --init --recursive
 ```
+
+## デプロイ設定
+
+### Github Pages
+
+### Github Actionsの利用
+
+* .github/workflows/src-master.yamlを作成
+* ソースはsrcブランチ
+* 出力はpublicフォルダの内容をmasterブランチ
+* Settings>Secretsに以下を追加
+    * Name: HOST
+    * Value: https://heartfulmooon.github.io/
+* buildのコマンドに --baseUrl=${{ secrets.HOST }}を追加
+
+### Netlify
+
+* Site Settings>Build&deploy>Build settings
+    * Repository: github.com/heartfulmoon/heartfulmoon.github.io
+    * Build command: hugo --gc -minify --baseUrl="${HOST}"
+    * Environment
+        * Key: HOST
+        * Value: https://heartfulmooon.netlify.app/
+
+```shell
+make deploy
+```
+
 
 ## 使い方
 
