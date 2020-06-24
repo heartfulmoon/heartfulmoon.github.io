@@ -1,3 +1,6 @@
 *~
 *.bak
 *.orig
+.env
+public
+resources

@@ -1,0 +1,8 @@
+    .postShorten.postShorten--thumbnailimg-right .postShorten-thumbnailimg img {
+        /* object-fit: cover; */
+        object-fit: scale-down;
+    }
+    .postShorten.postShorten--thumbnailimg-left .postShorten-thumbnailimg img {
+        /* object-fit: cover; */
+        object-fit: scale-down;
+    }
