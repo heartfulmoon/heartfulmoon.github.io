@@ -78,9 +78,7 @@ git submodule update --init --recursive
 
 ## デプロイ設定
 
-### Github Pages
-
-### Github Actionsの利用
+### Github Pages(Github Actionsの利用)
 
 * .github/workflows/src-master.yamlを作成
 * ソースはsrcブランチ
