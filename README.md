@@ -34,7 +34,7 @@ git submodule add https://github.com/kakawait/hugo-tranquilpeak-theme.git themes
 サイト設定
 
 ```shell
-cp -pr themes/hugo-tranquilpeak-theme/exampleSite/config.toml .
+cp -pr themes/tranquilpeak/exampleSite/config.toml .
 ```
 
 config.toml
@@ -72,7 +72,7 @@ git push -u origin master
 
 ```shell
 git clone git@github.com:heartfulmoon/hearfulmoon.github.io.git hearfulmoon.github.io
-cd higebobo-novela
+cd hearfulmoon.github.io
 git submodule update --init --recursive
 ```
 
@@ -102,7 +102,6 @@ git submodule update --init --recursive
 ```shell
 make deploy
 ```
-
 
 ## 使い方
 
