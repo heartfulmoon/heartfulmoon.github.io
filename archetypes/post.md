@@ -7,9 +7,9 @@ categories:
   - movie
 tags:
   - ドラマ
-thumbnailImagePosition: left
-#thumbnailImage: 
 #link_url: 
+#thumbnailImage: 
+thumbnailImagePosition: left
 ---
 
 <!--more-->
