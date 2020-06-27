@@ -1,5 +1,5 @@
 ---
-title: "Kodokunogurume4"
+title: "孤独のグルメ(シーズン4)"
 slug: "Kodokunogurume4"
 date: 2020-06-26T18:25:01+09:00
 #draft: true
