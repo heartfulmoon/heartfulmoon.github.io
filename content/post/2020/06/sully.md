@@ -17,4 +17,6 @@ thumbnailImagePosition: left
 
 本編もいい出来だけど、特典映像で泣いた。
 
+ところで飛行機って沈まないのか
+
 {{< amazon-prime >}}
