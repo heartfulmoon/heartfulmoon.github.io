@@ -5,6 +5,8 @@ date: "2020-01-28T14:45:52+09:00"
 draft: false
 categories: 
   - '映画'
+tags:
+  - 'ドキュメンターリー'
 thumbnailImagePosition: left
 thumbnailImage: https://lh3.googleusercontent.com/proxy/emYXHLmjJdH1OsTtUomeKWrU_a41mH2XlOAbExq_e-vEgA1dkmD7IRlIicbFQeOzWkjNC3Dt7NFmkiXtXqOwBcIxzZvX
 link_url: http://lindgren-movie.com/
