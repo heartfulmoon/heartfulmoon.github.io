@@ -1,5 +1,5 @@
 ---
-title: "Shooter"
+title: "ザ・シューター／極大射程"
 slug: "Shooter"
 date: 2020-06-29T21:36:27+09:00
 #draft: true
