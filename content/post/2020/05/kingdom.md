@@ -4,7 +4,7 @@ slug: "Kingdom"
 date: 2020-05-30T13:55:54+09:00
 #draft: true
 categories:
-  - movie
+  - 映画
 tags:
   - 歴史
   - アクション

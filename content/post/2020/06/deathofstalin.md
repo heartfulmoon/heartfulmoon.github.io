@@ -4,7 +4,7 @@ slug: "Deathofstalin"
 date: 2020-06-10T20:14:43+09:00
 #draft: true
 categories:
-  - movie
+  - 映画
 tags:
   - コメディ
   - 歴史

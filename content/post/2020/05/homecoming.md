@@ -4,9 +4,9 @@ slug: "Homecoming"
 date: 2020-05-29T13:33:23+09:00
 #draft: true
 categories:
-  - tv dram
+  - テレビドラマ
 tags:
-  - ドラマ
+  - サスペンス
 thumbnailImagePosition: left
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/812Jurfpk+L._SX600_.jpg
 link_url: https://www.amazon.co.jp/gp/video/detail/B07NS9LSH3/

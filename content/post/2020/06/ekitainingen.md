@@ -4,7 +4,7 @@ slug: "Ekitainingen"
 date: 2020-06-03T14:45:51+09:00
 #draft: true
 categories:
-  - movie
+  - 映画
 tags:
   - ホラー
 thumbnailImagePosition: left

@@ -3,7 +3,7 @@ title: "クラウン"
 slug: "Clown"
 date: 2020-05-23T20:17:01+09:00
 categories:
-  - movie
+  - 映画
 tags:
   - ホラー
 thumbnailImagePosition: left

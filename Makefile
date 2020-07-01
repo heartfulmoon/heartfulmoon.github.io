@@ -15,6 +15,14 @@ ifneq ("$(wildcard ./.env)","")
   include ./.env
 endif
 
+ifndef SLUG
+  SLUG=""
+endif
+
+ifndef DATE
+  DATE=""
+endif
+
 run: ## Run server
 	@hugo server --bind="0.0.0.0" --baseUrl="${HOST}" --port=${PORT} --buildDrafts --watch
 
@@ -34,7 +42,8 @@ clean: ## Clean old files
 	rm -fr ${BUILD_DIR}
 
 post: ## Post blog
-	@echo "hugo new post/<yyyy>/<mm>/<title>.md"
+	python scripts/genpost.py -s ${SLUG} -d ${DATE}
+	@#echo "hugo new post/<yyyy>/<mm>/<title>.md"
 
 help: ## Print this help
 	@echo 'Usage: make [target]'

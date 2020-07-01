@@ -4,10 +4,10 @@ slug: "Jerseyboys"
 date: 2020-06-13T21:39:07+09:00
 #draft: true
 categories:
-  - movie
+  - 映画
 tags:
+  - ドキュメンタリー
   - 音楽
-  - 青春
 thumbnailImagePosition: left
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/71MyVJjRRwL._SX600_.jpg
 link_url: https://www.amazon.co.jp/gp/video/detail/B00RF6R41A/

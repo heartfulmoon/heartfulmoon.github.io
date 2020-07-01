@@ -6,7 +6,7 @@ draft: false
 categories: 
   - '映画'
 tags:
-  - 'ドキュメンターリー'
+  - 'ドキュメンタリー'
 thumbnailImagePosition: left
 thumbnailImage: https://lh3.googleusercontent.com/proxy/emYXHLmjJdH1OsTtUomeKWrU_a41mH2XlOAbExq_e-vEgA1dkmD7IRlIicbFQeOzWkjNC3Dt7NFmkiXtXqOwBcIxzZvX
 link_url: http://lindgren-movie.com/

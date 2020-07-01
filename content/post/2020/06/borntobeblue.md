@@ -4,8 +4,9 @@ slug: "Borntobeblue"
 date: 2020-06-25T10:20:34+09:00
 #draft: true
 categories:
-  - movie
+  - 映画
 tags:
+  - ドキュメンタリー
   - 音楽
 thumbnailImagePosition: left
 link_url: https://www.amazon.co.jp/gp/video/detail/B071HWJNGT/

@@ -4,9 +4,9 @@ slug: "Spotlight"
 date: 2020-06-01T17:30:51+09:00
 #draft: true
 categories:
-  - movie
+  - 映画
 tags:
-  - ドラマ
+  - ドキュメンタリー
   - 法廷
 thumbnailImagePosition: left
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/918k3xEdaHL._SX600_.jpg

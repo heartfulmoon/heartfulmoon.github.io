@@ -4,7 +4,7 @@ slug: "Emma"
 date: 2020-05-22T22:22:41+09:00
 #draft: true
 categories:
-  - movie
+  - 映画
 tags:
   - アクション
   - サスペンス

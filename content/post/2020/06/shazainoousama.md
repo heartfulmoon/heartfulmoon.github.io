@@ -4,7 +4,7 @@ slug: "Shazainoousama"
 date: 2020-06-06T15:53:19+09:00
 #draft: true
 categories:
-  - movie
+  - 映画
 tags:
   - コメディ
 thumbnailImagePosition: left

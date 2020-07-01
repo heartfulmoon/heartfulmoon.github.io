@@ -4,8 +4,9 @@ slug: "Shuranomure"
 date: 2020-06-17T18:10:25+09:00
 draft: false
 categories:
-  - movie
+  - 映画
 tags:
+  - ドキュメンタリー
   - バイオレンス
 thumbnailImagePosition: left
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/71sK6bOi0dL._SX600_.jpg

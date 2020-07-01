@@ -3,7 +3,7 @@ title: グッド・ライ　～いちばん優しい嘘～
 slug: goodlie
 date: 2020-05-17T21:25:31+09:00
 categories:
-  - movie
+  - 映画
 tags:
   - ヒューマン
 thumbnailImagePosition: left

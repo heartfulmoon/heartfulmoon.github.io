@@ -4,7 +4,7 @@ slug: "Skyscraper"
 date: 2020-06-04T15:33:47+09:00
 #draft: true
 categories:
-  - movie
+  - 映画
 tags:
   - アクション
 thumbnailImagePosition: left

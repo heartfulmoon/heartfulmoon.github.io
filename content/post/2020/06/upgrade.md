@@ -4,7 +4,7 @@ slug: "Upgrade"
 date: 2020-06-21T13:34:25+09:00
 #draft: true
 categories:
-  - movie
+  - 映画
 tags:
   - SF
   - アクション

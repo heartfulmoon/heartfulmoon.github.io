@@ -4,7 +4,7 @@ slug: "Legendoftarzan"
 date: 2020-06-19T18:10:25+09:00
 draft: false
 categories:
-  - movie
+  - 映画
 tags:
   - アクション
 thumbnailImagePosition: left

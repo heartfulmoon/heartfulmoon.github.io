@@ -3,7 +3,7 @@ title: 鍵泥棒のメソッド
 slug: kagidorobounomethod
 date: 2020-05-17T13:25:31+09:00
 categories:
-  - movie
+  - 映画
 tags:
   - コメディ
 thumbnailImagePosition: left

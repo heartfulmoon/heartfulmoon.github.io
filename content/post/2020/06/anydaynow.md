@@ -4,7 +4,7 @@ slug: "Anydaynow"
 date: 2020-06-02T08:26:37+09:00
 #draft: true
 categories:
-  - movie
+  - 映画
 tags:
   - ヒューマン
   - 法廷

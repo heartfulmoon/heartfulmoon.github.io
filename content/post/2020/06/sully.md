@@ -4,8 +4,9 @@ slug: "Sully"
 date: 2020-06-27T10:30:10+09:00
 #draft: true
 categories:
-  - movie
+  - 映画
 tags:
+  - ドキュメンタリー
   - 事故
 link_url: https://www.amazon.co.jp/gp/video/detail/B01MRWYR1K/
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/714fwQyyO1L._SX600_.jpg

@@ -4,7 +4,7 @@ slug: "Third"
 date: 2020-06-08T21:50:39+09:00
 #draft: true
 categories:
-  - movie
+  - 映画
 tags:
   - ドラマ
   - 青春

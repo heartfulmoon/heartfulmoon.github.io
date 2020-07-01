@@ -4,7 +4,7 @@ slug: "Suicidesquad"
 date: 2020-06-20T20:28:06+09:00
 #draft: true
 categories:
-  - movie
+  - 映画
 tags:
   - アクション 
   - バイオレンス 

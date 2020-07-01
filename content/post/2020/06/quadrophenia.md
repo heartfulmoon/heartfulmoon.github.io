@@ -4,7 +4,7 @@ slug: "Quadrophenia"
 date: 2020-06-05T20:46:06+09:00
 #draft: true
 categories:
-  - movie
+  - 映画
 tags:
   - 青春
   - 音楽

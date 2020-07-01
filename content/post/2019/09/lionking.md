@@ -4,7 +4,7 @@ slug: "Lionking"
 date: "2019-09-01T16:35:39+09:00"
 #draft: true
 categories:
-  - movie
+  - 映画
 tags:
   - 動物
 link_url: https://www.disney.co.jp/movie/lionking2019/about.html

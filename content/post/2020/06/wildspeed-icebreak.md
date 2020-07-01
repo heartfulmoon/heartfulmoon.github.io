@@ -4,7 +4,7 @@ slug: "Wildspeed Icebreak"
 date: 2020-06-12T18:06:19+09:00
 #draft: true
 categories:
-  - movie
+  - 映画
 tags:
   - アクション
 thumbnailImagePosition: left

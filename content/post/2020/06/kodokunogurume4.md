@@ -4,7 +4,7 @@ slug: "Kodokunogurume4"
 date: 2020-06-26T18:25:01+09:00
 #draft: true
 categories:
-  - movie
+  - テレビドラマ
 tags:
   - グルメ
 link_url: https://www.amazon.co.jp/gp/video/detail/B00MG28CIW/

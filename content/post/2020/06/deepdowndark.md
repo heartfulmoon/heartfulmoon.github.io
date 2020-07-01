@@ -4,7 +4,7 @@ slug: "Deepdowndark"
 date: 2020-06-22T13:37:44+09:00
 #draft: true
 categories:
-  - movie
+  - 映画
 tags:
   - ノンフィクション
   - 災害

@@ -3,7 +3,7 @@ title: ギャングバスターズ
 slug: gyangbusters
 date: 2020-05-15T18:52:31+09:00
 categories:
-- movie
+- 映画
 tags:
 - アクション
 - コメディ

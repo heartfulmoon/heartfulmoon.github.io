@@ -4,9 +4,9 @@ slug: "Tonorisokudegozaru"
 date: 2020-06-07T08:55:18+09:00
 #draft: true
 categories:
-  - movie
+  - 映画
 tags:
-  - ドラマ
+  - ドキュメンタリー
   - 歴史
 thumbnailImagePosition: left
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/A17hug3176L._SX600_.jpg

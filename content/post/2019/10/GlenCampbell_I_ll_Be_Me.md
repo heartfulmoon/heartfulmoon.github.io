@@ -6,7 +6,7 @@ draft: false
 categories: 
   - '映画'
 tags:
-  - 'ドキュメンターリー'
+  - 'ドキュメンタリー'
   - '音楽'
 thumbnailImagePosition: left
 thumbnailImage: https://wowowent.jp/illbeme/images/gc_illbeme_sitemain.jpg?crc=222898744

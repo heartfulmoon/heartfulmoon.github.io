@@ -4,7 +4,7 @@ slug: "Heartofgold"
 date: 2020-06-28T14:46:20+09:00
 #draft: true
 categories:
-  - movie
+  - 映画
 tags:
   - ドキュメンタリー
   - 音楽

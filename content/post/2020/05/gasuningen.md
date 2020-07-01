@@ -4,7 +4,7 @@ slug: "Gasuningen"
 date: 2020-05-31T16:22:33+09:00
 #draft: true
 categories:
-  - movie
+  - 映画
 tags:
   - ホラー 
   - サスペンス 

@@ -4,7 +4,7 @@ slug: "Sunanoutuwa"
 date: 2020-06-18T18:10:25+09:00
 draft: false
 categories:
-  - movie
+  - 映画
 tags:
   - 推理
 thumbnailImagePosition: left

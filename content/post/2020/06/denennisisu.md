@@ -4,7 +4,7 @@ slug: "Denennisisu"
 date: 2020-06-09T16:36:53+09:00
 #draft: true
 categories:
-  - movie
+  - 映画
 tags:
   - 青春
 thumbnailImagePosition: left

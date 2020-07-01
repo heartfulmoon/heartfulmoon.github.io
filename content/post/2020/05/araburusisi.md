@@ -3,9 +3,9 @@ title: "実録 竹中正久の生涯 荒らぶる獅子"
 slug: "Araburusisi"
 date: 2020-05-27T13:36:53+09:00
 categories:
-  - movie
+  - 映画
 tags:
-  - ヒューマン
+  - ドキュメンタリー
   - バイオレンス
 thumbnailImagePosition: left
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/71huLhVutQL._SX600_.jpg

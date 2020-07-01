@@ -52,7 +52,8 @@ thumbnailImagePosition: left
 
 <!--more-->
 
-
+'''
+    output += '''
 {{< amazon-prime >}}
 '''
     with open(filepath, 'w') as f:

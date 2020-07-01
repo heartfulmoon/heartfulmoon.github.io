@@ -4,7 +4,7 @@ slug: "Shooter"
 date: 2020-06-29T21:36:27+09:00
 #draft: true
 categories:
-  - movie
+  - 映画
 tags:
   - アクション
 link_url: https://www.amazon.co.jp/gp/video/detail/B00FYNB160/

@@ -3,7 +3,7 @@ title: パターソン
 slug: paterson
 date: 2020-05-19T20:25:31+09:00
 categories:
-  - movie
+  - 映画
 tags:
   - ヒューマン
 thumbnailImagePosition: left

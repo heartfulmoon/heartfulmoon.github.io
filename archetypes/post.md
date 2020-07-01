@@ -4,7 +4,7 @@ slug: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 #draft: true
 categories:
-  - movie
+  - 映画
 tags:
   - ドラマ
 #link_url: 

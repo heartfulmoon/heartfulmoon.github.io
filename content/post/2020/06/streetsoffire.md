@@ -4,10 +4,9 @@ slug: "Streetsoffire"
 date: 2020-06-16T21:19:50+09:00
 #draft: true
 categories:
-  - movie
+  - 映画
 tags:
   - 音楽
-  - 青春
 thumbnailImagePosition: left
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/91j22DVky6L._SX600_.jpg
 link_url: https://www.amazon.co.jp/gp/video/detail/B01DIIPK96/
