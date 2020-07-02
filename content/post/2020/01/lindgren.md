@@ -8,7 +8,7 @@ categories:
 tags:
   - 'ドキュメンタリー'
 thumbnailImagePosition: left
-thumbnailImage: https://lh3.googleusercontent.com/proxy/emYXHLmjJdH1OsTtUomeKWrU_a41mH2XlOAbExq_e-vEgA1dkmD7IRlIicbFQeOzWkjNC3Dt7NFmkiXtXqOwBcIxzZvX
+thumbnailImage: http://lindgren-movie.com/images/top/main.jpg
 link_url: http://lindgren-movie.com/
 ---
 Parcoの株式、長期保有者になりやっと優待券２枚もらえるようになった矢先に上場廃止。 
