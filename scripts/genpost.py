@@ -24,9 +24,12 @@ def main():
     if args.date:
         year = args.date[:4]
         month = args.date[4:6]
+        day = args.date[6:]
+        pub_date  = f"{year}-{month}-{day}T{now.strftime('%H:%M:%S+09:00')}"
     else:
         year = now.strftime('%Y')
         month = now.strftime('%m')
+        pub_date = now.strftime('%Y-%m-%dT%H:%M:%S+09:00')
 
     content_dir = os.path.join(ROOT_DIR, CONTENT_DIR, args.type, year, month)
     filepath = os.path.join(content_dir, f'{args.slug}.md')
@@ -39,11 +42,11 @@ def main():
 ---
 title: "{args.slug}"
 slug: "{args.slug}"
-date: "{now.strftime('%Y-%m-%dT%H:%M:%S+09:00')}"
+date: "{pub_date}"
 categories:
   - 映画
-tags:
-  - ドラマ
+#tags:
+#  -
 #link_url:
 #thumbnailImage:
 thumbnailImagePosition: left
@@ -52,9 +55,7 @@ thumbnailImagePosition: left
 
 <!--more-->
 
-'''
-    output += '''
-{{< amazon-prime >}}
+{{{{< amazon-prime >}}}}
 '''
     with open(filepath, 'w') as f:
         f.write(output)
