@@ -27,4 +27,4 @@ zip-fmで空木マイカさんが紹介していたからちょっと興味を�
 
 以上。
 
-{{< amazon-prime title="リンドグレーン" url="https://www.google.com/url?sa=i&url=http%3A%2F%2Flindgren-movie.com%2F&psig=AOvVaw25tsIXiF1Rc1bb8RMVWml1&ust=1593570182046000&source=images&cd=vfe&ved=0CAMQjB1qFwoTCPilpN29qOoCFQAAAAAdAAAAABAR" image="https://lh3.googleusercontent.com/proxy/emYXHLmjJdH1OsTtUomeKWrU_a41mH2XlOAbExq_e-vEgA1dkmD7IRlIicbFQeOzWkjNC3Dt7NFmkiXtXqOwBcIxzZvX" credit="(映画『リンドグレーン』公式サイト)" >}}
+{{< amazon-prime credit="(映画『リンドグレーン』公式サイト)" >}}
