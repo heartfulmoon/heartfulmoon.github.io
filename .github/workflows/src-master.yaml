@@ -10,7 +10,6 @@ jobs:
     runs-on: ubuntu-18.04
     timeout-minutes: 30     # all jobs
     steps:
-      #timeout-minutes: 20  # each step
       - uses: actions/checkout@v2
         with:
           submodules: true  # Fetch Hugo themes
