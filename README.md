@@ -156,3 +156,4 @@ make deploy
 * [Hugo \+ Github Pagesでブログを公開してみた \- Qiita](https://qiita.com/eichann/items/4fe61b8b9bbafcfbe847)
 * [GitHub PagesとHugoでブログをつくった \- meow\.md](https://uzimihsr.github.io/post/2019-08-07-create-blog-1/)
 * [Hugoの導入から使い方とNetlifyでリリースするまでの方法](https://blog.cotapon.org/how-to-release-netlify-using-hugo/)
+* [\[GitHub\]Actions Workflowへのtimeout指定のススメ \| Developers\.IO](https://dev.classmethod.jp/articles/must-set-timeout-on-actions-for-save-cost/)
