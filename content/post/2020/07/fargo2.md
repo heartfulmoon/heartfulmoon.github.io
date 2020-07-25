@@ -3,7 +3,7 @@ title: "ファーゴ(シーズン2)"
 slug: "fargo2"
 date: "2020-07-16T13:29:37+09:00"
 categories:
-  - 映画
+  - テレビドラマ
 tags:
   - 犯罪
 link_url: https://www.amazon.co.jp/gp/video/detail/B01MSL5RC9/

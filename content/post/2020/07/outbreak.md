@@ -1,5 +1,5 @@
 ---
-title: "outbreak"
+title: "アウトブレイク"
 slug: "outbreak"
 date: "2020-07-13T16:33:14+09:00"
 categories:

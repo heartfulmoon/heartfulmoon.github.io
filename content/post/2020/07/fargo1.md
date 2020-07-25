@@ -3,9 +3,9 @@ title: "ファーゴ(シーズン1)"
 slug: "fargo1"
 date: "2020-07-09T20:53:16+09:00"
 categories:
-  - 映画
+  - テレビドラマ
 tags:
-  - バイオレンス
+  - 犯罪
 link_url: https://www.amazon.co.jp/gp/video/detail/B015QFJ0JA/
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/91FyP0KxiCL._SX600_.jpg
 thumbnailImagePosition: left
