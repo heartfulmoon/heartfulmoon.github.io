@@ -3,7 +3,7 @@ title: "ビッグリトルライズ"
 slug: "big-little-lies"
 date: "2020-08-10T09:10:54+09:00"
 categories:
-  - 映画
+  - テレビドラマ
 tags:
   - ヒューマン
 link_url: https://www.amazon.co.jp/gp/video/detail/B06W9MM2T7/
