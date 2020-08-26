@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "はじまりはヒップ・ホップ"
 slug: "hip-hop-eration"
 date: "2020-08-16T17:53:51+09:00"
 categories:
