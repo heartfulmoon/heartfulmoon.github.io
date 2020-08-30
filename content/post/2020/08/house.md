@@ -1,5 +1,5 @@
 ---
-title: "house"
+title: "HOUSE (ハウス)"
 slug: "house"
 date: "2020-08-30T16:52:47+09:00"
 categories:
@@ -8,7 +8,7 @@ tags:
   - ホラー
   - コメディ
 link_url: https://www.amazon.co.jp/gp/video/detail/B00FIWA60E/
-#thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/91SVzaS-ywL._SX300_.jpg
+thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/91SVzaS-ywL._SX300_.jpg
 thumbnailImagePosition: left
 #draft: true
 ---
