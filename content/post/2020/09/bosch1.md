@@ -1,6 +1,6 @@
 ---
-title: "bosch1"
-slug: "BOSCH/ボッシュ(シーズン1)"
+title: "BOSCH/ボッシュ(シーズン1)"
+slug: "bosch1"
 date: "2020-09-07T20:30:01+09:00"
 categories:
   - テレビドラマ
