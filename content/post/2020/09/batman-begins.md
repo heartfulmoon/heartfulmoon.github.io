@@ -1,5 +1,5 @@
 ---
-title: "batman-begins"
+title: "バットマン ビギンズ"
 slug: "batman-begins"
 date: "2020-09-17T07:13:02+09:00"
 categories:
