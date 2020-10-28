@@ -6,8 +6,8 @@ categories:
   - 映画
 tags:
   - ホラー
-link_url: https://images-na.ssl-images-amazon.com/images/I/91MqEGiezrL._SX300_.jpg
-thumbnailImage: https://www.amazon.co.jp/gp/video/detail/B00W166UZ0/
+link_url: https://www.amazon.co.jp/gp/video/detail/B00W166UZ0/
+thubmnailImage: https://images-na.ssl-images-amazon.com/images/I/91MqEGiezrL._SX300_.jpg
 thumbnailImagePosition: left
 #draft: true
 ---
