@@ -20,3 +20,5 @@ thumbnailImagePosition: left
 が結局屈しるんかよというつっこみを入れたくなる。
 
 {{< amazon-prime >}}
+
+![](https://images-na.ssl-images-amazon.com/images/I/91MqEGiezrL._SX300_.jpg)
