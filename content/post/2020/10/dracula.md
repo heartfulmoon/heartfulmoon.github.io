@@ -7,7 +7,8 @@ categories:
 tags:
   - ホラー
 link_url: https://www.amazon.co.jp/gp/video/detail/B00W166UZ0/
-thubmnailImage: https://images-na.ssl-images-amazon.com/images/I/91MqEGiezrL._SX300_.jpg
+#thubmnailImage: https://images-na.ssl-images-amazon.com/images/I/91MqEGiezrL._SX300_.jpg
+thubmnailImage: https://iwiz-movies.c.yimg.jp/im_sigg0K3D0DNgvSG42unlwJ1njQ---x680/c/movies/pict/p/p/fd/ad/165217_03.jpg
 thumbnailImagePosition: left
 #draft: true
 ---
@@ -19,6 +20,6 @@ thumbnailImagePosition: left
 
 が結局屈しるんかよというつっこみを入れたくなる。
 
-{{< amazon-prime >}}
+{{< amazon-prime image="https://iwiz-movies.c.yimg.jp/im_sigg0K3D0DNgvSG42unlwJ1njQ---x680/c/movies/pict/p/p/fd/ad/165217_03.jpg" >}}
 
 ![](https://images-na.ssl-images-amazon.com/images/I/91MqEGiezrL._SX300_.jpg)
