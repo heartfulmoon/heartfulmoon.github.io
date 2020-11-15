@@ -17,4 +17,6 @@ thumbnailImagePosition: left
 
 ただしメグ・ライアンがとてもかわいいのでよし。
 
+あと、映画全体に流れるスタンダード・ナンバーね。
+
 {{< amazon-prime >}}
