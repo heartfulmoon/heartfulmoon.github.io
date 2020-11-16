@@ -1,7 +1,7 @@
 ---
 title: "マイ・インターン"
 slug: "my-intern"
-date: "2020-07-090T17:39:55+09:00"
+date: "2020-07-09T17:39:55+09:00"
 categories:
   - 映画
 tags:

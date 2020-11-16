@@ -1,5 +1,5 @@
 ---
-title: "David Bowie: The First Five Years"
+title: "デヴィッド･ボウイ　最初の5年間"
 slug: "first-five-years"
 date: "2020-11-10T15:42:19+09:00"
 categories:
