@@ -15,7 +15,7 @@ thumbnailImagePosition: left
 <!--more-->
 「あなた」は白人のことね。
 
-[James Brown - Mr Dynamite]({{< ref "mr-dynamite" >}} にも取り上げられていたが、こちらは暴力の映像や私刑された人や射殺されたマルコムXなどの写真など生々しい。
+[James Brown - Mr Dynamite]({{< ref "mr-dynamite" >}}) にも取り上げられていたが、こちらは暴力の映像や私刑された人や射殺されたマルコムXなどの写真など生々しい。
 
 ボールドウィンの独白っぽい雰囲気がより心に伝わり、考えさせられる映画だった。
 
