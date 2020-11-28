@@ -1,5 +1,5 @@
 ---
-title: "triple-x"
+title: "ヴィン・ディーゼル Is トリプルＸ スペシャル・エディション"
 slug: "triple-x"
 date: "2020-11-27T11:06:06+09:00"
 categories:
