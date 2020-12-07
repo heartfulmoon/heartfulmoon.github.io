@@ -6,8 +6,8 @@ categories:
   - 映画
 tags:
   - スポーツ
-link_url:
-thumbnailImage:
+link_url: https://www.amazon.co.jp/dp/B00MHLHJM2/
+thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/81JPIqOYo1L._SX300_.jpg
 thumbnailImagePosition: left
 #draft: true
 ---
