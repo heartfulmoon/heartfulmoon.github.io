@@ -1,5 +1,5 @@
 ---
-title: "soul-power"
+title: "ソウル・パワー"
 slug: "soul-power"
 date: "2020-11-28T07:38:36+09:00"
 categories:

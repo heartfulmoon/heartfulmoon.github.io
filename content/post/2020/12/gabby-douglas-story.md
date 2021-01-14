@@ -1,5 +1,5 @@
 ---
-title: "gabby-douglas-story"
+title: "ギャビー・ダグラス ストーリー"
 slug: "gabby-douglas-story"
 date: "2020-12-29T12:48:09+09:00"
 categories:

@@ -7,7 +7,7 @@ categories:
 tags:
   - アニメ
 link_url: https://kimetsu.com/anime/
-thumbnailImage: https://lh3.googleusercontent.com/proxy/253_F4O0dSUUnApKFi5pc55Jazm56JK23TZA_q7RCnDIFThk2-RtOkr0-MouB0oAPvkoLsOS_LhC_RPdAPEzapbcUa1jfCLiHmcDx4p-UxtDsw
+thumbnailImage: https://kimetsu.com/anime/assets/img/kv_2.jpg
 thumbnailImagePosition: left
 #draft: true
 ---

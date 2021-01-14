@@ -1,5 +1,5 @@
 ---
-title: "falcone"
+title: "ファルコン"
 slug: "falcone"
 date: "2020-12-28T16:40:41+09:00"
 categories:
@@ -15,6 +15,6 @@ thumbnailImagePosition: left
 <!--more-->
 反対勢力は徹底的に潰す。
 
-だけどこの判事偉いな。  
+だけどこの判事偉いな。
 
 {{< amazon-prime >}}
