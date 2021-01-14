@@ -1,5 +1,5 @@
 ---
-title: "ウォーキング・デッド(シーズン8)"
+title: "ウォーキング・デッド(シーズン9)"
 slug: "walking-dead9"
 date: "2020-09-28T09:29:32+09:00"
 categories:
