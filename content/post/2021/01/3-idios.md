@@ -1,5 +1,5 @@
 ---
-title: "3-idios"
+title: "きっと、うまくいく"
 slug: "3-idios"
 date: "2021-01-16T12:58:01+09:00"
 categories:
