@@ -7,7 +7,7 @@ categories:
 tags:
   - 音楽
 link_url: https://www.amazon.co.jp/gp/video/detail/B08P2H4C76/ref=atv_wl_hom_c_unkc_1_2
-thumbnailImage: 
+thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/81WjJ1WVh+L._SX300_.jpg
 thumbnailImagePosition: left
 #draft: true
 ---
