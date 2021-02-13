@@ -1,5 +1,5 @@
 ---
-title: "zombeavers"
+title: "ゾンビーバー"
 slug: "zombeavers"
 date: "2021-01-31T13:31:41+09:00"
 categories:
