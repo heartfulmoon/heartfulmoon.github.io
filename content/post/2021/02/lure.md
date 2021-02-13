@@ -1,5 +1,5 @@
 ---
-title: "lure"
+title: "ゆれる人魚"
 slug: "lure"
 date: "2021-02-03T11:11:13+09:00"
 categories:
