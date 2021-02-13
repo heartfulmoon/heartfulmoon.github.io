@@ -1,5 +1,5 @@
 ---
-title: "the-boy-who-harnessed-the-wind"
+title: "風をつかまえた少年"
 slug: "the-boy-who-harnessed-the-wind"
 date: "2021-01-30T21:33:16+09:00"
 categories:
