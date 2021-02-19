@@ -3,7 +3,7 @@ title: "ハッピー・バレー 復讐の町"
 slug: "happy-valley-1"
 date: "2021-02-13T13:29:17+09:00"
 categories:
-  - 映画
+  - テレビドラマ
 tags:
   - 犯罪
 link_url: https://www.amazon.co.jp/gp/video/detail/B082T58NB7/

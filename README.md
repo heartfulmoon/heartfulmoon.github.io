@@ -48,8 +48,7 @@ theme = "tranquilpeak"
 
 > github pagesやnetlifyで使う場合はbaseURLのプロトコルはhttpsにすること
 
-
-起動確認(http://localhost:1313)
+起動確認(`http://localhost:1313`)
 
 ```shell
 cp /path/to/someplace/Makefile .
@@ -84,18 +83,18 @@ git submodule update --init --recursive
 * ソースはsrcブランチ
 * 出力はpublicフォルダの内容をmasterブランチ
 * Settings>Secretsに以下を追加
-    * Name: HOST
-    * Value: https://heartfulmooon.github.io/
+  * Name: HOST
+  * Value: `https://heartfulmooon.github.io/`
 * buildのコマンドに --baseUrl=${{ secrets.HOST }}を追加
 
 ### Netlify
 
 * Site Settings>Build&deploy>Build settings
-    * Repository: github.com/heartfulmoon/heartfulmoon.github.io
-    * Build command: hugo --gc -minify --baseUrl="${HOST}"
-    * Environment
-        * Key: HOST
-        * Value: https://heartfulmooon.netlify.app/
+  * Repository: github.com/heartfulmoon/heartfulmoon.github.io
+  * Build command: hugo --gc -minify --baseUrl="${HOST}"
+  * Environment
+    * Key: HOST
+    * Value: `https://heartfulmooon.netlify.app/`
 
 ```shell
 make deploy
@@ -116,6 +115,18 @@ content/post/2020/05/helloworld created
 
 ```shell
 vi content/post/2020/05/helloworld
+```
+
+スクリプトを使う場合(DATEは省略可)
+
+```shell
+SLUG=god-farther DATE-20210220 make post
+```
+
+Powershellの場合
+
+```shell
+$env:SLUG='happy-valley-2';$env:DATE='20210220';make post
 ```
 
 固定ページの作成
