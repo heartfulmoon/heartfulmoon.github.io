@@ -1,5 +1,5 @@
 ---
-title: "happy-valley-2"
+title: "ハッピー・バレー 復讐の町(シーズン2)"
 slug: "happy-valley-2"
 date: "2021-02-20T08:25:19+09:00"
 categories:
