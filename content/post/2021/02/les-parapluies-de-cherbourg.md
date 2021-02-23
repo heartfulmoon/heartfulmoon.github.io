@@ -8,7 +8,7 @@ tags:
   - 戦争
   - ロマンス
 link_url: https://www.amazon.co.jp/gp/video/detail/B08VD935ZC/
-thumbnailImage: https://www.amazon.co.jp/gp/video/detail/B08VD935ZC/
+thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/71LLNuYaBVL._SX300_.jpg
 thumbnailImagePosition: left
 #draft: true
 ---
