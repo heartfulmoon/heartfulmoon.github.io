@@ -1,7 +1,7 @@
 ---
 title: "BOSCH/ボッシュ(シーズン5)"
-slug: "bosch4"
-date: "2020-11-01T08:49:46+09:00"
+slug: "bosch5"
+date: "2021-03-12T12:49:46+09:00"
 categories:
   - テレビドラマ
 tags:

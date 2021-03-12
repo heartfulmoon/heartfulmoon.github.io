@@ -1,7 +1,7 @@
 ---
 title: "BOSCH/ボッシュ(シーズン4)"
 slug: "bosch4"
-date: "2020-11-01T08:49:46+09:00"
+date: "2021-01-08T08:49:46+09:00"
 categories:
   - テレビドラマ
 tags:
