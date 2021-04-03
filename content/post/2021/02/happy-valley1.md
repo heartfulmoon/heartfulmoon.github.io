@@ -1,6 +1,6 @@
 ---
 title: "ハッピー・バレー 復讐の町"
-slug: "happy-valley-1"
+slug: "happy-valley1"
 date: "2021-02-13T13:29:17+09:00"
 categories:
   - テレビドラマ
@@ -11,9 +11,9 @@ thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/81BuvGcCsGL._SX
 thumbnailImagePosition: left
 #draft: true
 ---
-主人公が中年の女性警官、残虐な犯行
+主人公が中年の女性警官、残虐な犯行、犯行の動機。
 <!--more-->
-ってところがファーゴに似ている。
+ってところが[ファーゴ]({{< ref "post/2021/04/fargo" >}})に似ている。
 
 しかしファーゴのようなコメディ要素は皆無。だけどすごい面白い。  
 続きが楽しみだな。
