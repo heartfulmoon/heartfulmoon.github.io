@@ -1,14 +1,13 @@
 ---
 title: "ロケットマン"
-slug: "rokectman"
+slug: "rokec-tman"
 date: "2019-09-03T18:20:07+09:00"
 draft: false
-categories: ['映画']
 categories: 
-  - '映画'
+  - 映画
 tags:
-  - 'ドキュメンタリー'
-  - '音楽'
+  - ドキュメンタリー
+  - 音楽
 thumbnailImagePosition: left
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/81s4ODWRQtL._SX600_.jpg
 link_url: https://www.amazon.co.jp//dp/B081W3N85Q/

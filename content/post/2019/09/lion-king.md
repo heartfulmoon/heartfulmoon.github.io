@@ -1,6 +1,6 @@
 ---
 title: "ライオンキング"
-slug: "Lionking"
+slug: "lion-king"
 date: "2019-09-01T16:35:39+09:00"
 #draft: true
 categories:
