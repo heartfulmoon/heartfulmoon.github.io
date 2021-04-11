@@ -11,10 +11,14 @@ thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/A1CC3B7LTzL._SX
 thumbnailImagePosition: left
 #draft: true
 ---
-巨大動物がシカゴを襲う
+巨大動物がシカゴを襲う話。
 <!--more-->
-話。以上。
-
 狼がモモンガみたいになるところが少し笑える。
 
 {{< amazon-prime >}}
+
+そしてちょうどタイミングよくこんなニュースが。。。
+
+{{< youtube 1sa69y0U9XQ >}}
+
+巨大ワニがビルに登る所がくりそつ
