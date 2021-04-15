@@ -7,7 +7,6 @@ categories:
 tags:
   - コメディ
   - ロマンス
-link_url: https://www.amazon.co.jp/gp/video/detail/B00G8A8AI0/
 thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/A1qhwAgTOHL._SX300_.jpg
 thumbnailImagePosition: left
 #draft: true
