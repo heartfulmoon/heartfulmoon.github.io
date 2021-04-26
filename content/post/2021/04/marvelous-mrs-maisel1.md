@@ -1,5 +1,5 @@
 ---
-title: "marvelous-mrs-maisel1"
+title: "マーベラス・ミセス・メイゼル(シーズン1)"
 slug: "marvelous-mrs-maisel1"
 date: "2021-04-23T07:40:59+09:00"
 categories:
@@ -7,7 +7,7 @@ categories:
 tags:
   - コメディ
 link_url: https://www.amazon.co.jp/gp/video/detail/B08BYY9RZR/
-thumbnailImage: https://www.amazon.co.jp/gp/video/detail/B08BYY9RZR/
+thumbnailImage: https://images-na.ssl-images-amazon.com/images/I/91u21dn47UL._SX300_.jpg
 thumbnailImagePosition: left
 #draft: true
 ---
