@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "私は、マリア・カラス"
 slug: "maria-callas"
 date: "2021-04-02T14:51:15+09:00"
 categories:
