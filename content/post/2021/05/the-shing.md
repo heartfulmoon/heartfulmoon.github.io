@@ -1,0 +1,21 @@
+---
+title: "遊星からの物体X"
+slug: "the-shing"
+date: "2021-05-21T08:06:58+09:00"
+categories:
+  - 映画
+tags:
+  - SF
+link_url: https://www.amazon.co.jp/gp/video/detail/B00G9TO2BY/
+thumbnailImage: https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_JP/nbcu-U2146_JP-Full-Image_GalleryBackground-jp-JP-1611224642479._SX1080_.jpg
+thumbnailImagePosition: left
+#draft: true
+---
+タイトルはよく耳にするがそういえば見たことなかった。
+<!--more-->
+宇宙人に襲われるパターンはよくあるが、寸分違わず人間になりすますのは面白かった。
+
+特撮がややチープだけどCGも使っていないからこんなものか。
+エイリアンしかりこの時代の宇宙人ってやたらドロドロしているよね。
+
+{{< amazon-prime >}}
