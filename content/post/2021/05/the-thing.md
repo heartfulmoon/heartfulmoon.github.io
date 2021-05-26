@@ -1,6 +1,6 @@
 ---
 title: "遊星からの物体X"
-slug: "the-shing"
+slug: "the-thing"
 date: "2021-05-21T08:06:58+09:00"
 categories:
   - 映画
