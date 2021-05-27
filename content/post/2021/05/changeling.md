@@ -7,7 +7,7 @@ categories:
 tags:
   - 犯罪
 link_url: https://www.amazon.co.jp/gp/video/detail/B01967KNZE/
-thumbnailImage: https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_JP/nbcu-02363_JP_SUBT-Full-Image_GalleryBackground-jp-JP-1621839792714._SX1080_.jpg
+thumbnailImage: https://m.media-amazon.com/images/I/81EvMXGV77L._AC_UL320_.jpg
 thumbnailImagePosition: left
 #draft: true
 ---

@@ -7,7 +7,7 @@ categories:
 tags:
   - ドキュメンタリー
 link_url: https://www.amazon.co.jp/gp/video/detail/B07TTHWLGM/
-thumbnailImage: https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_JP/bbb-clpb_00223sub-Full-Image_GalleryBackground-jp-JP-1620020812146._SX1080_.jpg
+thumbnailImage: https://m.media-amazon.com/images/I/71dQaOgdjcL._AC_UL320_.jpg
 thumbnailImagePosition: left
 #draft: true
 ---

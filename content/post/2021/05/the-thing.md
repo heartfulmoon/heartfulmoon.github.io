@@ -7,7 +7,7 @@ categories:
 tags:
   - SF
 link_url: https://www.amazon.co.jp/gp/video/detail/B00G9TO2BY/
-thumbnailImage: https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_JP/nbcu-U2146_JP-Full-Image_GalleryBackground-jp-JP-1611224642479._SX1080_.jpg
+thumbnailImage: https://m.media-amazon.com/images/I/61ysv1MUzxL._AC_UL320_.jpg
 thumbnailImagePosition: left
 #draft: true
 ---
