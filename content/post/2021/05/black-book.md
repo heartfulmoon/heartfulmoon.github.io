@@ -1,5 +1,5 @@
 ---
-title: "black-book"
+title: "ブラック・ブック"
 slug: "black-book"
 date: "2021-05-25T10:06:38+09:00"
 categories:
