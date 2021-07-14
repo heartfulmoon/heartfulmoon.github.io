@@ -1,5 +1,5 @@
 ---
-title: "death-becomes-her"
+title: "永久に美しく"
 slug: "death-becomes-her"
 date: "2021-07-12T09:31:33+09:00"
 categories:

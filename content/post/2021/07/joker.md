@@ -1,5 +1,5 @@
 ---
-title: "joker"
+title: "ジョーカー"
 slug: "joker"
 date: "2021-07-10T09:32:10+09:00"
 categories:
