@@ -11,7 +11,7 @@ thumbnailImage: https://m.media-amazon.com/images/I/91YNXGz0guL._AC_UL320_.jpg
 thumbnailImagePosition: left
 #draft: true
 ---
-凶悪な犯罪者ジョーカーの生誕秘話
+凶悪な犯罪者ジョーカーの誕生秘話
 <!--more-->
 後付感満載だが、内容は面白かった。  
 なんかせつないね。
