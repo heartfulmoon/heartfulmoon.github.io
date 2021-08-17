@@ -5,7 +5,7 @@ date: "2021-08-03T13:07:38+09:00"
 categories:
   - テレビドラマ
 tags:
-  - 犯罪  
+  - 犯罪
 link_url: https://www.amazon.co.jp/gp/video/detail/B0972X78LX/
 thumbnailImage: https://m.media-amazon.com/images/I/91uYa9ucsrS._AC_UL320_.jpg
 thumbnailImagePosition: left
