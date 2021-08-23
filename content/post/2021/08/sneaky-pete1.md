@@ -1,6 +1,6 @@
 ---
-title: "sneaky-pete(シーズン1)"
-slug: "sneaky-pete"
+title: "スニーキー・ピート(シーズン1)"
+slug: "sneaky-pete1"
 date: "2021-08-17T08:00:21+09:00"
 categories:
   - テレビドラマ
