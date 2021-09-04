@@ -6,6 +6,7 @@ categories:
   - テレビドラマ
 tags:
   - 犯罪
+  - コメディ
 link_url: https://www.amazon.co.jp/gp/video/detail/B08BYY52QM/
 thumbnailImage: https://m.media-amazon.com/images/I/81nO2DI9uCL._AC_UL320_.jpg
 thumbnailImagePosition: left
