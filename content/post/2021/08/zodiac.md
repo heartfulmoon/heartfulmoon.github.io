@@ -11,7 +11,7 @@ thumbnailImage: https://m.media-amazon.com/images/I/71Tarc-M-+L._AC_UL320_.jpg
 thumbnailImagePosition: left
 #draft: true
 ---
-実話ベースってところがミソなんだろうけど
+実話ベースってところがミソなんだろうが。
 <!--more-->
 なんかすっきりしない終わり方だな。  
 そして相変わらず理解力がなくて後半わけがわからなくなった。

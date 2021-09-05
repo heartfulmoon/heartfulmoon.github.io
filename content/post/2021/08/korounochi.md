@@ -12,7 +12,7 @@ thumbnailImage: https://m.media-amazon.com/images/I/91MGEmEo5lL._AC_UL320_.jpg
 thumbnailImagePosition: left
 #draft: true
 ---
-仁義なき戦いの亜流というか
+仁義なき戦いの亜流というか。
 <!--more-->
 ただ広島が舞台なだけだが。  
 まあまあ面白い。

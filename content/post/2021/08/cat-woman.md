@@ -11,7 +11,7 @@ thumbnailImage: https://m.media-amazon.com/images/I/71Q5Pn2DmnL._AC_UL320_.jpg
 thumbnailImagePosition: left
 #draft: true
 ---
-パケ写がやけにセクシーだなと思ったけど。
+パケ写がやけにセクシーだなと思ったけども。
 <!--more-->
 思ったよりセクシーすぎた。
 
