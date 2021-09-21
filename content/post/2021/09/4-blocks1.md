@@ -1,5 +1,5 @@
 ---
-title: "4-blocks1"
+title: "４ブロックス(シーズン1)"
 slug: "4-blocks1"
 date: "2021-09-18T14:17:41+09:00"
 categories:
