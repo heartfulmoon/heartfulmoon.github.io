@@ -1,6 +1,7 @@
 *~
 *.bak
 *.orig
+*.pyc
 .env
 public
 resources

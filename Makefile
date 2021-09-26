@@ -42,7 +42,7 @@ clean: ## Clean old files
 	rm -fr ${BUILD_DIR}
 
 post: ## Post blog
-	python scripts/genpost.py -s ${SLUG} -d ${DATE}
+	python -m app -s ${SLUG} -d ${DATE}
 	@#echo "hugo new post/<yyyy>/<mm>/<title>.md"
 
 help: ## Print this help
