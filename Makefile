@@ -39,10 +39,10 @@ deploy: build ## Deploy on Github Pages
 
 clean: ## Clean old files
 	@hugo --cleanDestinationDir
-	rm -fr ${BUILD_DIR}
+	@rm -fr ${BUILD_DIR}
 
 post: ## Post blog
-	python -m app -s ${SLUG} -d ${DATE}
+	@python -m app -s ${SLUG} -d ${DATE}
 	@#echo "hugo new post/<yyyy>/<mm>/<title>.md"
 
 help: ## Print this help
