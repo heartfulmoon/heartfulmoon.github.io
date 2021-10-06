@@ -27,7 +27,7 @@ def main():
         year = args.date[:4]
         month = args.date[4:6]
         day = args.date[6:]
-        pub_date  = f"{year}-{month}-{day}T{now.strftime({TIME_FORMAT})}"
+        pub_date  = f"{year}-{month}-{day}T{now.strftime(TIME_FORMAT)}"
         #pub_date  = f"{year}-{month}-{day}T{now.strftime('%H:%M:%S+09:00')}"
     else:
         year = now.strftime('%Y')
