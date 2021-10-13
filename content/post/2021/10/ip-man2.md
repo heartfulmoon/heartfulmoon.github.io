@@ -1,5 +1,5 @@
 ---
-title: "イップ・マン 葉問"
+title: "イップ・マン葉問"
 slug: "ip-man2"
 date: "2021-10-11T11:12:19+09:00"
 categories:
@@ -11,7 +11,7 @@ thumbnailImage: https://m.media-amazon.com/images/I/91FcLzxhECL._AC_UL320_.jpg
 thumbnailImagePosition: left
 #draft: true
 ---
-前作と違って今回の敵は日本人じゃないから安心して観れるよね(w
+前作と違って今回の敵は日本人じゃないから安心して観れるよね(w。
 <!--more-->
 つーかチャンプ強すぎるわ。
 
