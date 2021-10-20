@@ -21,4 +21,7 @@ thumbnailImagePosition: left
 脚本はグチャグチャだな。特にエンデイング。  
 でもやっぱりかっこいいわ。
 
+あとノラ・ミャオさんかわいい。  
+[ドラゴン危機一発]({{< ref "posts/2021/10/big-boss" >}}の露店の売り子だな。
+
 {{< amazon-prime >}}
