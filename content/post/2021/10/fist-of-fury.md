@@ -22,6 +22,6 @@ thumbnailImagePosition: left
 でもやっぱりかっこいいわ。
 
 あとノラ・ミャオさんかわいい。  
-[ドラゴン危機一発]({{< ref "posts/2021/10/big-boss" >}}の露店の売り子だな。
+[ドラゴン危機一発]({{< ref "post/2021/10/big-boss" >}})の露店の売り子だな。
 
 {{< amazon-prime >}}
