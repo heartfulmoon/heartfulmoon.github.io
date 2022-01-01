@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "ウラニャ"
 slug: "uranya"
 date: "2021-11-27T21:55:25+09:00"
 categories:

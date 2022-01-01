@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "ペット・セミタリー"
 slug: "pet-sematary"
 date: "2021-12-03T06:56:05+09:00"
 categories:
