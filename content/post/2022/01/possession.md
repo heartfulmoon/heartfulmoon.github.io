@@ -1,5 +1,5 @@
 ---
-title: "possession"
+title: "ポゼッション"
 slug: "possession"
 date: "2022-01-21T13:15:36+09:00"
 categories:
