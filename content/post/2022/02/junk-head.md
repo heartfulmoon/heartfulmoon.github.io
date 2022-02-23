@@ -1,5 +1,5 @@
 ---
-title: "junk-head"
+title: "JUNK HEAD"
 slug: "junk-head"
 date: "2022-02-22T07:45:37+09:00"
 categories:
