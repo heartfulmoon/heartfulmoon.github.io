@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "ボブという名の猫"
 slug: "a-street-cat-named-bob"
 date: "2022-02-28T14:36:47+09:00"
 categories:
