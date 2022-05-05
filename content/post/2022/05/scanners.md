@@ -1,5 +1,5 @@
 ---
-title: "scanners"
+title: "スキャナーズ"
 slug: "scanners"
 date: "2022-05-05T13:26:07+09:00"
 categories:
