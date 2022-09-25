@@ -1,5 +1,5 @@
 ---
-title: "dawn-of-the-dead"
+title: "ドーン・オブ・ザ・デッド"
 slug: "dawn-of-the-dead"
 date: "2022-09-18T13:05:36+09:00"
 categories:
