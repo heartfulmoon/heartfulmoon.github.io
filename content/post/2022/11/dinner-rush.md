@@ -1,5 +1,5 @@
 ---
-title: "dinner-rush"
+title: "ディナー・ラッシュ"
 slug: "dinner-rush"
 date: "2022-11-23T12:49:54+09:00"
 categories:
