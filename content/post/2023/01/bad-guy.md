@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "バッド･ガイ"
 slug: "bad-guy"
 date: "2023-01-02T17:06:23+09:00"
 categories:
