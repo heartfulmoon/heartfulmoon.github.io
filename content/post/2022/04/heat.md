@@ -1,5 +1,5 @@
 ---
-title: "heat"
+title: "ヒート"
 slug: "heat"
 date: "2022-04-10T07:14:51+09:00"
 categories:
