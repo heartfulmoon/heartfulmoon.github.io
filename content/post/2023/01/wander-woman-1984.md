@@ -15,4 +15,6 @@ thumbnailImagePosition: left
 <!--more-->
 それにしてもCG黎明期でよくここまでの映像作れたなと感心する。
 
+って思ったけど1984年制作じゃなくて2020年か。やはりな。
+
 {{< amazon-prime >}}
