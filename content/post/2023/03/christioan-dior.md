@@ -1,5 +1,5 @@
 ---
-title: "christioan-dior"
+title: "ディオールと私"
 slug: "christioan-dior"
 date: "2023-03-23T14:14:31+09:00"
 categories:
