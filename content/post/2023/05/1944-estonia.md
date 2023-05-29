@@ -1,5 +1,5 @@
 ---
-title: "1944-estonia"
+title: "1944 独ソ・エストニア戦線"
 slug: "1944-estonia"
 date: "2023-05-15T18:25:54+09:00"
 categories:
