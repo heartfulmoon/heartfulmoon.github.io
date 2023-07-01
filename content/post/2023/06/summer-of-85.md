@@ -6,8 +6,8 @@ categories:
   - 映画
 tags:
   - 青春
-#link_url: https://www.amazon.co.jp/gp/video/detail/B09RCB3PGH/
-#thumbnailImage: https://m.media-amazon.com/images/I/81wP4IkQhjL._AC_UL320_.jpg
+link_url: https://www.amazon.co.jp/gp/video/detail/B09RCB3PGH/
+thumbnailImage: https://m.media-amazon.com/images/I/81wP4IkQhjL._AC_UL320_.jpg
 thumbnailImagePosition: left
 #draft: true
 ---
