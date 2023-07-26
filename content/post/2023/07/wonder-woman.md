@@ -1,5 +1,5 @@
 ---
-title: "wonder-woman"
+title: "ワンダーウーマン"
 slug: "wonder-woman"
 date: "2023-07-20T13:58:57+09:00"
 categories:
