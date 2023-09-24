@@ -6,8 +6,8 @@ categories:
   - 映画
 tags:
   - ロマンス
-link_url:
-thumbnailImage:
+link_url: https://www.amazon.co.jp/gp/video/detail/B07M9X5VZ2/
+thumbnailImage: https://m.media-amazon.com/images/I/81jDYNT6fvL._AC_UL320_.jpg
 thumbnailImagePosition: left
 #draft: true
 ---
