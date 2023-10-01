@@ -3,7 +3,7 @@ title: "赤の大地と失われた花"
 slug: "lost-flowers"
 date: "2023-09-06T06:59:27+09:00"
 categories:
-  - 映画
+  - テレビドラマ
 tags:
   - ヒューマン
 link_url: https://www.amazon.co.jp/gp/video/detail/B0BZMWZ5ZV/
