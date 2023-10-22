@@ -5,7 +5,7 @@ date: "2023-10-09T20:16:04+09:00"
 categories:
   - 映画
 tags:
-  - コメディ
+  - ヒューマン
 link_url: https://www.amazon.co.jp/gp/video/detail/B09ZNMQD5K/
 #thumbnailImage:
 thumbnailImagePosition: left
