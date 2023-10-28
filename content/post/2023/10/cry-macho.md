@@ -15,4 +15,6 @@ thumbnailImagePosition: left
 <!--more-->
 さて結果は。
 
+ところでラフォの父役の人、ドワイト・ヨーカムなんだね。好きなミュージシャンの一人だ。
+
 {{< amazon-prime >}}
