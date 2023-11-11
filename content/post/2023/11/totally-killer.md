@@ -7,7 +7,7 @@ categories:
 tags:
   - ホラー
   - コメディ
-link_url:mazon.co.jp/gp/video/detail/B0CG7KFWWH/
+link_url: https://www.amazon.co.jp/gp/video/detail/B0CG7KFWWH/
 thumbnailImage: https://m.media-amazon.com/images/I/9124NGecKXL._AC_UL320_.jpg
 thumbnailImagePosition: left
 #draft: true
