@@ -1,7 +1,7 @@
 ---
 title: "マッチ工場の少女"
 slug: "tulitikkutehtaan-tytto"
-date: "2023-10-31T14:01:09+09:00"
+date: "2023-10-30T14:01:09+09:00"
 categories:
   - 映画
 tags:

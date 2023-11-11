@@ -1,7 +1,7 @@
 ---
 title: "真夜中の虹"
 slug: "ariel"
-date: "2023-10-30T14:00:04+09:00"
+date: "2023-10-29T20:00:04+09:00"
 categories:
   - 映画
 tags:
