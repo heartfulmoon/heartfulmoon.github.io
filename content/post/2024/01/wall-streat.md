@@ -5,7 +5,7 @@ date: "2024-01-02T20:34:21+09:00"
 categories:
   - 映画
 tags:
-  - ドキュメンタリー
+  - 経済
 link_url: https://www.amazon.co.jp/gp/video/detail/B00G04DLFG/
 thumbnailImage: https://m.media-amazon.com/images/I/912Ru5EkgZL._AC_UL320_.jpg
 thumbnailImagePosition: left
