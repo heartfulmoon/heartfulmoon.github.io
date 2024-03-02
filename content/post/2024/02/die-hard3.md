@@ -1,5 +1,5 @@
 ---
-title: "ダイ・ハード3 "
+title: "ダイ・ハード3"
 slug: "die-hard3"
 date: "2024-02-15T09:23:34+09:00"
 categories:
