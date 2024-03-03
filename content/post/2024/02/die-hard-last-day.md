@@ -1,7 +1,7 @@
 ---
 title: "ダイ・ハード／ラスト・デイ"
 slug: "die-hard-last-day"
-date: "2024-02-25T14:26:44+09:00"
+date: "2024-02-25T22:26:44+09:00"
 categories:
   - 映画
 tags:
