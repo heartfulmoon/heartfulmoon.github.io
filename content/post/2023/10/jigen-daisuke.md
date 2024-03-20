@@ -7,7 +7,7 @@ categories:
 tags:
   - アクション
 link_url: https://www.amazon.co.jp/gp/video/detail/B0CBJF5WWM/
-#thumbnailImage:
+thumbnailImage: https://m.media-amazon.com/images/I/81WnFAk6-KL._AC_UL320_.jpg
 thumbnailImagePosition: left
 #draft: true
 ---

@@ -1,5 +1,5 @@
 ---
-title: "contract-killer"
+title: "コントラクト・キラー"
 slug: "contract-killer"
 date: "2023-11-10T20:06:34+09:00"
 categories:
