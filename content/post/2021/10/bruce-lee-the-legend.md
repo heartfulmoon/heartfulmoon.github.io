@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "ブルース・リーの神話"
 slug: "bruce-lee-the-legend"
 date: "2021-10-21T07:32:32+09:00"
 categories:

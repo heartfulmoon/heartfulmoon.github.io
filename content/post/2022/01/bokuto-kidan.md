@@ -7,7 +7,7 @@ categories:
 #tags:
 #  -
 link_url: https://www.amazon.co.jp/gp/video/detail/B01E7PHV14/
-thumbnailImage:
+thumbnailImage: https://m.media-amazon.com/images/I/A1Ixd75kfwL._AC_UL320_.jpg
 thumbnailImagePosition: left
 #draft: true
 ---

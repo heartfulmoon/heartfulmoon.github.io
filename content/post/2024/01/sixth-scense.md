@@ -7,7 +7,7 @@ categories:
 tags:
   - サスペンス
 link_url: https://www.amazon.co.jp/gp/video/detail/B00GT2D118/
-thumbnailImage: https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/71-tZxPGdpL._AC_UL320_.jpg
+thumbnailImage: https://m.media-amazon.com/images/I/71-tZxPGdpL._AC_UL320_.jpg
 thumbnailImagePosition: left
 #draft: true
 ---

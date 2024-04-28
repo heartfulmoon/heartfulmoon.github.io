@@ -1,5 +1,5 @@
 ---
-title: "aquaman"
+title: "アクアマン"
 slug: "aquaman"
 date: "2021-05-13T13:23:54+09:00"
 categories:

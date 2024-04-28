@@ -1,5 +1,5 @@
 ---
-title: "mid90s"
+title: "mid90s ミッドナインティーズ"
 slug: "mid90s"
 date: "2022-05-14T13:12:39+09:00"
 categories:
