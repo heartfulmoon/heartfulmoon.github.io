@@ -1,5 +1,5 @@
 ---
-title: "リーチャー"
+title: "リーチャー〜正義のアウトロー〜"
 slug: "reacher"
 date: "2024-03-19T19:38:56+09:00"
 categories:
