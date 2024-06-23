@@ -24,7 +24,7 @@ ifndef DATE
 endif
 
 run: ## Run server
-	@hugo server --bind="0.0.0.0" --baseUrl="${HOST}" --port=${PORT} --buildDrafts --watch
+	@hugo server --bind="0.0.0.0" --baseURL="${HOST}" --port=${PORT} --buildDrafts --watch
 
 run-without-draft: ## Run server without draft posts
 	@hugo server --watch

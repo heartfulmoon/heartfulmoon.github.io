@@ -34,7 +34,7 @@ canonifyurls = true
   category = "categories"
   archive = "archives"
 
-[author]
+[params.author]
   name = "heartfulmoon"
   bio = "私的映画評価(My movie review)"
   job = "暇人"
