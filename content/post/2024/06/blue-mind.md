@@ -13,6 +13,6 @@ thumbnailImagePosition: left
 ---
 正直
 <!--more-->
-何がいいたいだ
+何がいいたいんだ
 
 {{< amazon-prime >}}
