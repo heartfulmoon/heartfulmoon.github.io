@@ -32,7 +32,7 @@ run-without-draft: ## Run server without draft posts
 build: clean ## Build static html
 	@hugo
 
-deploy: build ## Deploy on Github Pages
+deploy:  ## Deploy on Github Pages
 	@git add .
 	@git commit -m "rebuilding site on `date '+%Y-%m-%d %H:%M:%S'`"
 	@git push origin src
