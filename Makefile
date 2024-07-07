@@ -34,7 +34,7 @@ build: clean ## Build static html
 
 deploy: build ## Deploy on Github Pages
 	@git add .
-	@git commit -m 'modified'
+	@git commit -m "rebuilding site on `date '+%Y-%m-%d %H:%M:%S'`"
 	@git push origin src
 
 clean: ## Clean old files
