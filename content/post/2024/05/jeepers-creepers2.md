@@ -1,5 +1,5 @@
 ---
-title: "jeepers-creepers2"
+title: "ヒューマン・キャッチャー"
 slug: "jeepers-creepers2"
 date: "2024-05-25T11:34:43+09:00"
 categories:

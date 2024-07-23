@@ -1,5 +1,5 @@
 ---
-title: "https://www.amazon.co.jp/gp/video/detail/B0B8Q9L9LC/"
+title: "カモン カモン"
 slug: "cmon-cmon"
 date: "2024-05-23T16:33:27+09:00"
 categories:
