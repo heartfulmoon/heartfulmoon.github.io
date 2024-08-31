@@ -48,11 +48,12 @@ def main():
 
     output = f"""\
 ---
-title: "{args.slug}"
+title: ""
 slug: "{args.slug}"
 date: "{pub_date}"
 categories:
   - 映画
+#  - テレビドラマ
 #tags:
 #  - 
 #link_url: 
