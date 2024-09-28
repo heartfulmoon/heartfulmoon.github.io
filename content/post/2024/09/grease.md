@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "グリース"
 slug: "grease"
 date: "2024-09-23T11:57:49+09:00"
 categories:
