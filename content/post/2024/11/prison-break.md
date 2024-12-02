@@ -1,5 +1,5 @@
 ---
-title: "プリズン・ブレイクプリズン・ブレイク"
+title: "プリズン・ブレイク"
 slug: "prison-break"
 date: "2024-11-07T20:46:25+09:00"
 categories:
