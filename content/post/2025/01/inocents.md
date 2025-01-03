@@ -1,5 +1,5 @@
 ---
-title: "イノセンス"
+title: "イノセンツ"
 slug: "inocents"
 date: "2025-01-03T11:41:20+09:00"
 categories:
