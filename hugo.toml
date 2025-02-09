@@ -20,8 +20,10 @@ title = "Heartfulmoon Web Site"
 theme = "tranquilpeak"
 #disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
-paginate = 7
 canonifyurls = true
+
+[pagination]
+  pagerSize = 7
 
 [markup.goldmark.renderer]
   unsafe = true

@@ -11,7 +11,7 @@ thumbnailImage: https://m.media-amazon.com/images/I/41njujOClsL._AC_UL320_.jpg
 thumbnailImagePosition: left
 #draft: true
 ---
-イタリアの至宝か。
+イタリアの宝石か。
 <!--more-->
 そう言われるだけあったモニカ・ベルッチさん、美しい。  
 映画のストーリーはなんだけど。
