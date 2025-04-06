@@ -1,5 +1,5 @@
 ---
-title: "孤独のグルメ(シーズン6)"
+title: "孤独のグルメ(シーズン7)"
 slug: "kodokunogurume7"
 date: "2022-11-10T20:27:46+09:00"
 categories:
