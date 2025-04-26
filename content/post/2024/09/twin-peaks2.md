@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "ツイン・ピークス(シーズン2)"
 slug: "twin-peaks2"
 date: "2024-09-16T16:43:55+09:00"
 categories:

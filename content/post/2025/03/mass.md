@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "対峙"
 slug: "mass"
 date: "2025-03-22T22:42:56+09:00"
 categories:
