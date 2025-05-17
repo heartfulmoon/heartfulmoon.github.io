@@ -8,7 +8,7 @@ tags:
   - 戦争
   - 犯罪
 link_url: https://www.amazon.co.jp/gp/video/detail/B00GQN0LE0/
-thumbnailImage: https://m.media-amazon.com/images/I/91Xa5gPcmPL._AC_UL320_.jpg
+thumbnailImage: https://m.media-amazon.com/images/I/31kuKEMHwDL._AC_UL320_.jpg
 thumbnailImagePosition: left
 ---
 二転三転して面白い
