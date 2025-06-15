@@ -7,7 +7,7 @@ categories:
 tags:
   - ヒューマン
 link_url: https://www.amazon.co.jp/gp/video/detail/B0BY3XG3TC/
-thumbnailImage: https://m.media-amazon.com/images/I/91wNje7cMCL._AC_UL320_.jpg
+thumbnailImage: https://m.media-amazon.com/images/I/81keP0SXzRL._AC_UL320_.jpg
 thumbnailImagePosition: left
 #draft: true
 ---
