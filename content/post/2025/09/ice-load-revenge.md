@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "アイス ロード リベンジ"
 slug: "ice-load-revenge"
 date: "2025-09-14T20:24:18+09:00"
 categories:
