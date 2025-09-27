@@ -8,7 +8,7 @@ tags:
   - 戦争
   - 犯罪
 link_url: https://www.amazon.co.jp/gp/video/detail/B00J7E1JPA
-#thumbnailImage: 
+thumbnailImage: https://m.media-amazon.com/images/I/91atPIoKdBL._AC_UL320_.jpg
 thumbnailImagePosition: left
 #draft: true
 ---
