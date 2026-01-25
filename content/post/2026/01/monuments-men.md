@@ -6,8 +6,8 @@ categories:
   - 映画
 tags:
   - 戦争
-link_url: https://m.media-amazon.com/images/I/91gav9+Le3L._AC_UL320_.jpg
-thumbnailImage: https://www.amazon.co.jp/gp/video/detail/B0DHBGYSLK/
+link_url: https://www.amazon.co.jp/gp/video/detail/B0DHBGYSLK/
+thumbnailImage: https://m.media-amazon.com/images/I/91gav9+Le3L._AC_UL320_.jpg
 thumbnailImagePosition: left
 #draft: true
 ---
