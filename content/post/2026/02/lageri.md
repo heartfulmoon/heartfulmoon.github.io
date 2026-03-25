@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "ラーゲリより愛を込めて"
 slug: "lageri"
 date: "2026-02-23T20:58:32+09:00"
 categories:
