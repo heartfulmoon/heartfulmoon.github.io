@@ -7,7 +7,7 @@ categories:
 tags:
   - コメディ
 link_url: https://www.amazon.co.jp/gp/video/detail/B0FZR21XGH/
-#thumbnailImage: 
+thumbnailImage: https://m.media-amazon.com/images/I/91EKloc875L._AC_UL320_.jpg
 thumbnailImagePosition: left
 #draft: true
 ---
